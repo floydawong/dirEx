@@ -1,6 +1,3 @@
-__all__ = ["show_dir_info", "show_dir_method", "show_dir_module"]
-
-
 def _get_dir_list(obj=None):
     """
     dir([object]) -> list of strings
